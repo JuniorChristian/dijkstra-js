@@ -1,8 +1,12 @@
 JavaScript Dijkstra's Algorithm Implementation
 ---------------
 
-This is an implementation of [Dijkstra's Algorithm] in JS. A fun afternoon project I  
-wrote awhile ago while working in the University CS Tutoring Lab. 
+This is an implementation of [Dijkstra's Algorithm] in JS, HTML5/Canvas, and CSS3. 
+
+A fun afternoon project I wrote awhile ago while working in the University CS Tutoring Lab. 
+
+
+
 MCS 590!
 
 
